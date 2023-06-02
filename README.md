@@ -8,18 +8,18 @@ application which will support CRUD operations. All the CRUD operations will be 
 
 # Some Key points for REST API - 
   1. REST APIs also called as RESTful APIs
-  2. REST = Representational State Transfer 
- API = Application Programming Interface
-REST is a set of architectural constraints, not a protocol or a standard. API developers can implement REST in a variety of ways
-A REST API is an application programming interface that follows the constraints of REST architectural style and allows for interaction with RESTful web services
- REST APIs work over HTTP
- Delivers information using any one of the following formats - 
- JSON (Most popular) ,  Text , HTML , XML , Javascript and more 
+  2.REST = Representational State Transfer 
+  3. API = Application Programming Interface
+  4. REST is a set of architectural constraints, not a protocol or a standard. API developers can implement REST in a variety of ways
+  5. A REST API is an application programming interface that follows the constraints of REST architectural style and allows for interaction with RESTful web services
+  6. REST APIs work over HTTP
+  7. Delivers information using any one of the following formats - 
+  8. JSON (Most popular) ,  Text , HTML , XML , Javascript and more 
  
 # Spring Boot Key points -
- Easily create stand-alone, production-grade Spring based Applications
- Tomcat, Jetty are embedded
- Provides starter dependencies
- Automatically configure Spring and third party libraries
- Provides production ready features such as health checks, metrics, etc.
- No code generation, No XML configuration
+  1. Easily create stand-alone, production-grade Spring based Applications
+  2. Tomcat, Jetty are embedded
+  3. Provides starter dependencies
+  4. Automatically configure Spring and third party libraries
+  5. Provides production ready features such as health checks, metrics, etc.
+  6. No code generation, No XML configuration
