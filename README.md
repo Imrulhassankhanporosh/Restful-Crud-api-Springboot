@@ -7,8 +7,8 @@ Update and Delete - All 4 REST API CRUD operations are implemented in this sessi
 application which will support CRUD operations. All the CRUD operations will be tested with the help of Postman tool.
 
 # Some Key points for REST API - 
- REST APIs also called as RESTful APIs
- REST = Representational State Transfer 
+  1. REST APIs also called as RESTful APIs
+  2. REST = Representational State Transfer 
  API = Application Programming Interface
 REST is a set of architectural constraints, not a protocol or a standard. API developers can implement REST in a variety of ways
 A REST API is an application programming interface that follows the constraints of REST architectural style and allows for interaction with RESTful web services
